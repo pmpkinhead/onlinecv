@@ -1,0 +1,79 @@
+.heading{
+	font-size: 35px;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+.intro{
+ border-radius: 0 45px 45px 0;
+}
+body{
+	font-family: helvetica;
+}
+.intro {
+    font-family: monospace;;
+	background-color:#2f5a78;
+	color: white;
+	padding-left: 16px;
+	padding-bottom:8px;
+}
+img {
+	border-radius: 0 40px 40px 0px;
+	float: right
+}
+.prof{
+	font-size: 20px;
+	font-weight:lighter;
+    font-family:monospace
+}
+.contactinfo {
+    font-family: monospace;
+	font-size: 15px;
+	padding-left: 16px;
+	padding-bottom: 8px;
+	margin-bottom: 4px;
+	background-color: #eeeeee;
+}
+.subheading {
+    font-family: monospace;
+	font-size: 20px;
+	text-transform: uppercase;
+	padding-left: 16px;
+}
+.skills_name {
+    font-family: monospace;
+	width: 4px;
+	float: left
+}
+.skills_per {
+    font-family: monospace;
+	margin-right: 15px;
+	float: right
+}
+.skills ul li{
+    font-family: monospace;
+	margin-bottom: 10px;
+	justify-content: space-between;
+	align-items: right;
+	margin-left: -15px;
+}
+ul {
+}
+li { 
+}
+.skills {
+	padding-left: 16px;
+	display: flex;
+	justify-content: space-between
+}
+.date {
+	color:rgb(72, 90, 124); 
+}
+.jobinfo {
+    font-family: monospace;
+}
+.jobtitle{
+	font-weight: bold;
+}
+.social {
+    font-family: monospace;
+}
